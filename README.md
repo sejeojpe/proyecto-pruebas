@@ -1,1 +1,1 @@
-Archivo de prueba para proyecto-pruebas.
+Repositorio para practicar .gitignore.
